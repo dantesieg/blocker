@@ -269,3 +269,5 @@
 127.0.0.1 www.linkedin.com
 127.0.0.1 media.licdn.com
 127.0.0.1 platform.linkedin.com
+
+127.0.0.1 static.quantcast.mgr.consensu.org
